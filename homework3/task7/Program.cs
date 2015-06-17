@@ -4,15 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace task2
+namespace task7
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string a = Console.ReadLine();
-
-                
+            string a = "Hi, I am";
+            string b = " Radostina";
+            Console.WriteLine();
+            Console.WriteLine(b.Contains(a));
+            Console.WriteLine();
         }
     }
 }

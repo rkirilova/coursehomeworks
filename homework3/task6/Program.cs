@@ -12,8 +12,12 @@ namespace task6
         static void Main(string[] args)
         {
             Console.WriteLine("please write a number");
-            double a = (Console.Read());
-            Console.WriteLine("please write second number");
+            float x = float.Parse(Console.ReadLine());
+
+            Console.Write("Целочислено деление на 2:    ");
+            float y = x / 2;
+            Console.WriteLine(y);
+
       
 
 
