@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task4while", "task4while\ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task4do while", "task4do while\task4do while.csproj", "{2609BA1E-28BB-4EE2-B611-02DF10DB0D37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum", "sum\sum.csproj", "{708AA2C7-93F7-41B2-BD98-5D006151CCC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taskfactoriel", "taskfactoriel\taskfactoriel.csproj", "{B2ACD866-9DF9-45DB-A87E-F72B4B800581}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{2609BA1E-28BB-4EE2-B611-02DF10DB0D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2609BA1E-28BB-4EE2-B611-02DF10DB0D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2609BA1E-28BB-4EE2-B611-02DF10DB0D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708AA2C7-93F7-41B2-BD98-5D006151CCC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708AA2C7-93F7-41B2-BD98-5D006151CCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708AA2C7-93F7-41B2-BD98-5D006151CCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708AA2C7-93F7-41B2-BD98-5D006151CCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2ACD866-9DF9-45DB-A87E-F72B4B800581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2ACD866-9DF9-45DB-A87E-F72B4B800581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2ACD866-9DF9-45DB-A87E-F72B4B800581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2ACD866-9DF9-45DB-A87E-F72B4B800581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
